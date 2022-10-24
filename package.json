@@ -1,0 +1,22 @@
+{
+  "name": "spinnertesting",
+  "version": "1.0.0",
+  "description": "spinnerFunction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArrKuu77/npm-spinner-create.git"
+  },
+  "keywords": [
+    "AKSspinner"
+  ],
+  "author": "aungkaungsan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArrKuu77/npm-spinner-create/issues"
+  },
+  "homepage": "https://github.com/ArrKuu77/npm-spinner-create#readme"
+}
